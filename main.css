@@ -48,11 +48,21 @@
   }
 
   .container {
-    max-width: 1100px;
+    max-width: 1300px;
     margin: 0 auto;
   }
 
 .social {
   display: flex;
   align-items: center;
-  
+}
+
+.searchbox {
+  color: rgb(65, 65, 65);
+
+border: 2px solid rgb(6, 89, 167);
+border-radius: 5px;
+min-width: 500px;
+ height:1.75rem;
+ 
+}
